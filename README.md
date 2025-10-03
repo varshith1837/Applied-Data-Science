@@ -36,7 +36,7 @@ The notebook includes various charts to understand data distribution and relatio
 
 ### Prerequisites
 The project uses standard Python data science libraries.
-* Python 3.x
+* Python 3.11
 * Jupyter Notebook or Google Colaboratory
 
 ### Dependencies
